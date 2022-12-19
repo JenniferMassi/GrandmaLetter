@@ -1,0 +1,15 @@
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\bin\Debug\net6.0\GrandmaLetter.exe
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\bin\Debug\net6.0\GrandmaLetter.deps.json
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\bin\Debug\net6.0\GrandmaLetter.runtimeconfig.json
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\bin\Debug\net6.0\GrandmaLetter.dll
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\bin\Debug\net6.0\GrandmaLetter.pdb
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\GrandmaLetter.csproj.AssemblyReference.cache
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\GrandmaLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\GrandmaLetter.AssemblyInfoInputs.cache
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\GrandmaLetter.AssemblyInfo.cs
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\GrandmaLetter.csproj.CoreCompileInputs.cache
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\GrandmaLetter.dll
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\refint\GrandmaLetter.dll
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\GrandmaLetter.pdb
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\GrandmaLetter.genruntimeconfig.cache
+C:\Users\Jenni\source\repos\GrandmaLetter\GrandmaLetter\obj\Debug\net6.0\ref\GrandmaLetter.dll
